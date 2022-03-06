@@ -1,0 +1,11 @@
+.ui.grid {
+    margin-top: 1rem}
+.container-p{
+    background-color: red;
+    display:  flex;
+}
+
+.image{
+    object-fit: cover;
+    background-color: black;
+}
